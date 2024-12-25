@@ -20,6 +20,11 @@ Oxidize is an ambitious, high-performance game engine written in Rust, designed 
 
 🔨 Currently under active development - Watch this space oxidize into something amazing!
 
+## Modules
+- core: Main engine logic
+- rendering: Rendering pipeline details
+- vfx: Visual effects components
+
 ## Building
 
 ```bash
