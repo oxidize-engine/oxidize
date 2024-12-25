@@ -1,5 +1,7 @@
 # Oxidize Game Engine 🦀
 
+![oxidize](https://github.com/user-attachments/assets/f84bc90c-f855-4705-8922-1789debd8f86)
+
 > Where Rust meets gaming, and things get deliberately oxidized!
 
 ## About
